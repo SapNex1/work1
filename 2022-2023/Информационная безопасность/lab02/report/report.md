@@ -173,8 +173,8 @@ gid и uid совпадают со значениями из прошлых пу
 
 # Библиография
 
-1. Лабораторная работа №1. Установка и конфигурация операционной системы на виртуальную машину. - 14 с. [Электронный ресурс]. М. URL: [Лабораторная работа №1](https://esystem.rudn.ru/pluginfile.php/1651883/mod_resource/content/6/002-lab_discret_attr.pdf) (Дата обращения: 06.09.2022).
+1. Лабораторная работа №2. Дискреционное разграничение прав в Linux. Основные атрибуты. - 5 с. [Электронный ресурс]. М. URL: [Лабораторная работа №1](https://esystem.rudn.ru/pluginfile.php/1651883/mod_resource/content/6/002-lab_discret_attr.pdf) (Дата обращения: 17.09.2022).
 
-2. Rocky Linux Documentation. [Электронный ресурс]. М. URL: [Rocky Linux Documentation](https://docs.rockylinux.org) (Дата обращения: 06.09.2022).
+2. Rocky Linux Documentation. [Электронный ресурс]. М. URL: [Rocky Linux Documentation](https://docs.rockylinux.org) (Дата обращения: 17.09.2022).
 
 3. Chmod. [Электронный ресурс]. М. URL: [Файловая система](https://ru.wikipedia.org/wiki/Chmod) (Дата обращения: 17.09.2022).
